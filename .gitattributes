@@ -1,3 +1,1 @@
-MVCTest/Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
-MVCTest/Assembly-CSharp-Editor.csproj filter=lfs diff=lfs merge=lfs -text
 MVCTest/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
